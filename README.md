@@ -35,4 +35,3 @@
  ---Matplotlib
  ---Tkinter
  ---Scikit Learn
- - AWS
