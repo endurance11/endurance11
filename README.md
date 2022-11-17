@@ -1,7 +1,7 @@
 <h1 align = center>Hi there 👋</h1> 
   
   
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-zz&label=Profile%20views&color=0e75b6&style=flat" alt="endurance11" /> </p> 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=endurance11&label=Profile%20views&color=0e75b6&style=flat" alt="endurance11" /> </p> 
   
  <h2> About Me </h2> 
  <ul> 
